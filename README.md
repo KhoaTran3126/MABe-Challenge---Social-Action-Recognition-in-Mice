@@ -1,1 +1,1 @@
-# MABe-Challenge: Social-Action-Recognition-in-Mice
+# MABe-Challenge: Social Action Recognition in Mice
